@@ -7,10 +7,10 @@ Thanks to the wonderful instructor Maximilian Schwarzmüller, I was able to comp
 
 ## To Boot Up the Project
 
-1. Clone the project to your local machine: git clone git@github.com:polaeskandar/project-investment-calculator.git.
-2. Change to the project directory: cd project-investment-calculator.
-3. Install the necessary node packages: npm install.
-4. Run the application: npm run dev.
+1. Clone the project to your local machine: `git clone git@github.com:polaeskandar/project-investment-calculator.git`.
+2. Change to the project directory: `cd project-investment-calculator`.
+3. Install the necessary node packages: `npm install`.
+4. Run the application: `npm run dev`.
 
 ## Feedback & Contact
 
